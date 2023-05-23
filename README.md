@@ -10,7 +10,7 @@ Welcome to  my portfolio, where I showcase my projects.
 
 ### 🛠️ Tools
 
-- Database: Google NigQuery, MySQL
+- Database: Google BigQuery, MySQL
 - R: Tidyverse
 - Python: NumPy, Pandas
 - Business Intelligence: Tableau
