@@ -8,7 +8,12 @@ With expertise in data modelling and data analysis, I am passionate about helpin
 
 Welcome to  my portfolio, where I showcase my projects.
 
+### 🛠️ Tools
 
+- Database: Google NigQuery, MySQL
+- R: Tidyverse
+- Python: NumPy, Pandas
+- Business Intelligence: Tableau
 
 
 
