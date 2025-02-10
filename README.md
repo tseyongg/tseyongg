@@ -10,17 +10,13 @@ Welcome to  my portfolio, where I showcase my projects.
 
 ### 🛠️ Tools
 
-- Big Data: Hadoop, Hive, Spark
-- 
-
-
-
-
+- Big Data & Processing: Apache Spark, Apache Airflow, Hive, Trino, Hadoop
+- Cloud Platforms: Google Cloud Platform (GCP), Oracle Cloud
+- Containerization & Deployment: Docker
 - Database: Google BigQuery, Postgres, Oracle
-  
-- R: Tidyverse
-- Python: NumPy, Pandas
-- Business Intelligence: Tableau, Superset
+- Scripting & Automation: Bash
+- Business Intelligence & Visualization: Apache Superset, Tableau
+- Programming Languages & Libraries: Python (NumPy, Pandas), R (Tidyverse)
 
 
 
