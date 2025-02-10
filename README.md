@@ -14,9 +14,8 @@ Welcome to  my portfolio, where I showcase my projects.
 - Cloud Platforms: Google Cloud Platform (GCP), Oracle Cloud
 - Containerization & Deployment: Docker
 - Database: Google BigQuery, Postgres, Oracle
-- Scripting & Automation: Bash
 - Business Intelligence & Visualization: Apache Superset, Tableau
-- Programming Languages & Libraries: Python (NumPy, Pandas), R (Tidyverse)
+- Programming Languages: Python, R
 
 
 
