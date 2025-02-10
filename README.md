@@ -2,7 +2,7 @@
 
 I'm Lye Tse Yong, a data science and analytics student at the National University of Singapore.
 
-With expertise in data modelling and data analysis, I am passionate about helping businesses make sense of their data.
+With expertise in data engineering and data science, I am passionate about building data pipelines and infrastructure for real-world businesses.
 
 ### 📚 Projects
 
@@ -10,10 +10,17 @@ Welcome to  my portfolio, where I showcase my projects.
 
 ### 🛠️ Tools
 
-- Database: Google BigQuery, MySQL
+- Big Data: Hadoop, Hive, Spark
+- 
+
+
+
+
+- Database: Google BigQuery, Postgres, Oracle
+  
 - R: Tidyverse
 - Python: NumPy, Pandas
-- Business Intelligence: Tableau
+- Business Intelligence: Tableau, Superset
 
 
 
